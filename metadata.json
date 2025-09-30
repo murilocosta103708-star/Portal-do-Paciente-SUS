@@ -1,0 +1,5 @@
+{
+  "name": "Portal do Paciente SUS",
+  "description": "Um aplicativo para que os usuários do Sistema Único de Saúde (SUS) possam marcar consultas, visualizar seus agendamentos e verificar sua posição na fila de espera.",
+  "requestFramePermissions": []
+}
